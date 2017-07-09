@@ -1,9 +1,19 @@
 .header{
 	margin: 0;
 	padding: 0;
-	background-color: red;
-	height: 50px;
+	background-color: none;
+	height: 250px;
 	min-width: 100%;
+}
+
+.title{
+	text-align: center;
+	margin:0;
+	padding:100px 30px;
+	font-family: Arial;
+	font-weight: 600;
+	font-size: 50px;
+	color:#0F866F;
 }
 
 .body{

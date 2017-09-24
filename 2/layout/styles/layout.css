@@ -70,7 +70,7 @@
 #latest{display:block; width:100%; margin:0 auto; padding-bottom:0;}
 
 #latest ul{}
-#latest ul li{display:block; float:left; width:16.66666632016632%;}
+#latest ul li{display:block; float:left; width:16.66666632016632%;margin-left: 6.5%;}
 #latest ul li:first-child, #latest ul li:nth-child(6n+1){clear:left;}
 #latest ul li img{display:block; width:100%;}
 #latest ul li .txtoverlay{display:block; text-align:center;}
